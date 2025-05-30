@@ -3,7 +3,7 @@
 </h1>
 
 <br/>
-<h3 align="left"> Hey there! I'm a 18-year-old web development student passionate about turning ideas into clean, functional code and bringing them to life! 🚀</h3>
+<h3 align="left"> Hey there! I'm a 20-year-old web development student passionate about turning ideas into clean, functional code and bringing them to life! 🚀</h3>
 <h3>Student at Manipal University Jaipur</h3>
 
 - 🔭 Currently mastering **Javascript and React to create stunning web applications.**
