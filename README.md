@@ -42,15 +42,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/rive-app/logos/rive-icon.svg" height="30" alt="Rive"/>
-  <img src="https://supabase.com/new-icon.svg" height="30" alt="Supabase"/>
+  <img src="https://rive.app/assets/images/brand/rive-logo-black.svg" height="30" alt="Rive"/>
+  <img src="https://seeklogo.com/images/S/supabase-logo-8D77C62F99-seeklogo.com.png" height="30" alt="Supabase"/>
+
 </p>
 
 ---
 <p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=PreyNastiq&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="100" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PreyNastiq&theme=radical" height="100" alt="Streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreyNastiq&layout=compact&theme=radical" height="100" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PreyNastiq&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PreyNastiq&theme=radical" height="150" alt="Streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreyNastiq&layout=compact&theme=radical" height="150" alt="Top Languages" />
 </p>
 
 ---
