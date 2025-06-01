@@ -47,12 +47,12 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="180" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-id&theme=radical" height="180" alt="Streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PreyNastiq&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="180" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PreyNastiq&theme=radical" height="180" alt="Streak stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact&theme=radical" height="140" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreyNastiq&layout=compact&theme=radical" height="140" alt="Top Languages"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@
   <a href="mailto:hk856280479@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/your-github-id">
+  <a href="https://github.com/PreyNastiq">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-id">
@@ -70,3 +70,11 @@
   </a>
 </p>
 
+---
+
+### ⚡ Fun Fact
+> Debugging at 3AM with lo-fi beats is my kind of therapy 🎧💻
+
+---
+
+> 🌱 *Always learning. Always building.*
