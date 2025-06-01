@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pmMXBsOGo0cWRoNmhjdXRtdzZmbmFwNWF4N3R6b3kxZjJ1MmtvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="350" alt="Mario running"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pmMXBsOGo0cWRoNmhjdXRtdzZmbmFwNWF4N3R6b3kxZjJ1MmtvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100%" alt="Mario running"/>
   <br/>
   Hey, I'm Harshit 👋
 </h1>
