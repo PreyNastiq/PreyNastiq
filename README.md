@@ -41,18 +41,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/rive-app/logos/rive-icon.svg" height="30" alt="Rive"/>
+  <img src="https://supabase.com/new-icon.svg" height="30" alt="Supabase"/>
 </p>
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PreyNastiq&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="180" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PreyNastiq&theme=radical" height="180" alt="Streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PreyNastiq&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="100" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PreyNastiq&theme=radical" height="100" alt="Streak stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreyNastiq&layout=compact&theme=radical" height="140" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreyNastiq&layout=compact&theme=radical" height="100" alt="Top Languages"/>
 </p>
 
 ---
@@ -65,7 +68,7 @@
   <a href="https://github.com/PreyNastiq">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id">
+  <a href="https://www.linkedin.com/in/harshit-kumar-ambesh-134927205/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -73,8 +76,5 @@
 ---
 
 ### ⚡ Fun Fact
-> Debugging at 3AM with lo-fi beats is my kind of therapy 🎧💻
+> My keyboard is basically my best friend — it never judges my typos. 💻
 
----
-
-> 🌱 *Always learning. Always building.*
