@@ -47,10 +47,12 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-id&theme=radical" height="180"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact&theme=radical" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="180" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-id&theme=radical" height="180" alt="Streak stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact&theme=radical" height="140" alt="Top Languages"/>
 </p>
 
 ---
@@ -68,11 +70,3 @@
   </a>
 </p>
 
----
-
-### ⚡ Fun Fact
-> Debugging at 3AM with lo-fi beats is my kind of therapy 🎧💻
-
----
-
-> 🌱 *Always learning. Always building.*
