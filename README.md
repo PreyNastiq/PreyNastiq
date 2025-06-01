@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Mario waving"/>
+  <img src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://tenor.com/search/hacker-gifs)" width="100%" alt="Mario waving"/>
   <br/>
   Hey, I'm Harshit 👋
 </h1>
