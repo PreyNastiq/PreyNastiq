@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://tenor.com/search/hacker-gifs https://tenor.com/search/mr-incredible-gifs](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pmMXBsOGo0cWRoNmhjdXRtdzZmbmFwNWF4N3R6b3kxZjJ1MmtvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)" width="100%" alt="Coding Gif"/>
+  <img src="![image](https://github.com/user-attachments/assets/ca692ce7-4641-4e38-a443-e6ebb152e6bf)
+" width="100%" alt="Coding Gif"/>
   <br/>
   Hey, I'm Harshit 👋
 </h1>
