@@ -47,15 +47,10 @@
 </p>
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PreyNastiq&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="100" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PreyNastiq&theme=radical" height="100" alt="Streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreyNastiq&layout=compact&theme=radical" height="100" alt="Top Languages"/>
+<p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=PreyNastiq&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="100" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PreyNastiq&theme=radical" height="100" alt="Streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreyNastiq&layout=compact&theme=radical" height="100" alt="Top Languages" />
 </p>
 
 ---
