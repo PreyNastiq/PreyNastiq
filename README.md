@@ -43,7 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma"/>
   <img src="https://github.com/user-attachments/assets/42ef6b9a-3125-4f87-89d0-b2e8ece579e8" height="30" alt="Rive"/>
-  <img src="!https://github.com/user-attachments/assets/05c5c295-652b-4ec9-819c-36f8648dae2f" height="30" alt="Supabase"/>
 
 </p>
 
