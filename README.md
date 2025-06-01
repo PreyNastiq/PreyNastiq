@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="![image](https://github.com/user-attachments/assets/ca692ce7-4641-4e38-a443-e6ebb152e6bf)
-" width="100%" alt="Coding Gif"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pmMXBsOGo0cWRoNmhjdXRtdzZmbmFwNWF4N3R6b3kxZjJ1MmtvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="350" alt="Mario running"/>
   <br/>
   Hey, I'm Harshit 👋
 </h1>
