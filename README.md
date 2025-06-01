@@ -42,8 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma"/>
-  <img src="https://rive.app/assets/images/brand/rive-logo-black.svg" height="30" alt="Rive"/>
-  <img src="https://seeklogo.com/images/S/supabase-logo-8D77C62F99-seeklogo.com.png" height="30" alt="Supabase"/>
+  <img src="https://raw.githubusercontent.com/rive-app/rive-flutter/main/example/assets/rive/icon.png" height="30" alt="Rive"/>
+  <img src="https://avatars.githubusercontent.com/u/33207016?s=200&v=4" height="30" alt="Supabase"/>
 
 </p>
 
